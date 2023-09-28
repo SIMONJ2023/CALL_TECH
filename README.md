@@ -3,7 +3,7 @@ PRIMER PROYECTO PUBLICO DE UNA PLATAFORMA DE ATENCION A LAS PERSONAS EN EL PUNTO
 
 Debido a gestiones del municipio por el mas reciente PBOT, impactar a todos los sabaneteños en mejorar su calidad de vida y su manera de manejar por las calles, procurando la integridad de cada conductor, pasajero y transeunte del municipio de Sabaneta es nuestra razon de mision.
 
-Se realizaran plataformas de nuestra pagina en diferentes lenguas como _Kotlin_, _Java Script_ y _Python_ para presentar una plataforma completa y estructurada de la mejor calidad para las personas.
+Se realizaran plataformas de nuestra pagina en diferentes lenguas como ___Kotlin___, ___Java Script___ y ___Python___ para presentar una plataforma completa y estructurada de la mejor calidad para las personas.
 
 ##Integrantes
 - Daniel Felipe Agudelo Molina (Docente)
@@ -11,4 +11,3 @@ Se realizaran plataformas de nuestra pagina en diferentes lenguas como _Kotlin_,
 - Santiago Gonzalez Araque (Diseño y logica de la pagina)
 - Juan Felipe Cordero Montaño (Base y arquitectura de la pagina)
 - Samuel Marin Jaramillo (Apoyo y logistica en procesos administrativos)
-....relacionar nombres y rol dentro del equipo.
