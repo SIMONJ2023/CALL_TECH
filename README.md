@@ -1,4 +1,4 @@
-<div align="center">
++<div align="center">
 <h1 align="center">🚗 CALL TECH 🛠️</h1>
 </div>
 
@@ -19,7 +19,7 @@ Se realizaran plataformas de nuestra pagina en diferentes lenguas como ___Kotlin
 
 ## Integrantes
 - Daniel Felipe Agudelo Molina (Docente)
-- Simon Jaramillo Gomez (Lider)
-- Santiago Gonzalez Araque (Diseño y logica de la pagina)
-- Juan Felipe Cordero Montaño (Base y arquitectura de la pagina)
+- Simon Jaramillo Gomez (Lider - diseño de la pagina)
+- Santiago Gonzalez Araque (Base y Arquitectura de la pagina)
+- Juan Felipe Cordero Montaño (Funcion - Diseño - logica y montaje de la pagina)
 - Samuel Marin Jaramillo (Apoyo y logistica en procesos administrativos)
